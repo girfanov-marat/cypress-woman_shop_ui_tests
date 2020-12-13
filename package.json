@@ -1,0 +1,24 @@
+{
+  "name": "cypress-woman_shop_ui_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "woman_shop_ui": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girfanov-marat/cypress-woman_shop_ui_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girfanov-marat/cypress-woman_shop_ui_tests/issues"
+  },
+  "homepage": "https://github.com/girfanov-marat/cypress-woman_shop_ui_tests#readme",
+  "devDependencies": {
+    "cypress": "^6.1.0"
+  }
+}
